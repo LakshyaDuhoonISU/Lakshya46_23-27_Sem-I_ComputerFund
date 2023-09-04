@@ -2,7 +2,7 @@ Name- Lakshya Duhoon
 Roll No- 46
 
 Video 1 Title- Types of computer architecture
-Link- https://drive.google.com/file/d/1db0AYZWkH5tgPfjHwV4Dw3NnzdQYUfWV/view?usp=sharing
+Link- https://drive.google.com/file/d/1HSxz0jLu2PDuah_m-adadzN2RYI57qGj/view?usp=sharing
 
 Video 2 Title- Binary Operations
 Link- https://drive.google.com/file/d/15efxVFbTBD2wIRCzwjiwygd4sNYycnRa/view?usp=sharing
